@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Trabalho1</string>
+    <string name="tab_in">Entradas</string>
+    <string name="tab_menu">Menus</string>
+    <string name="tab_click">Click</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="profissoes">
+        <item>Programador</item>
+        <item>Engenheiro</item>
+        <item>Advogado</item>
+        <item>Medico</item>
+        <item>Entregador</item>
+    </string-array>
+    <string-array name="pedidos">
+        <item>Iscas de Carne Grelhada</item>
+        <item>Bife ao Molho Madeira</item>
+        <item>Linguiça Assada</item>
+        <item>Torta de Frango</item>
+        <item>Filé de Peixe</item>
+    </string-array>
+    <string-array name="sobremesas">
+        <item>Fruta</item>
+        <item>Sorvete</item>
+        <item>Doce</item>
+    </string-array>
+</resources>
